@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Leak Testing Machine", "Leak Testing Machine\Leak Testing Machine.vbproj", "{C07AEFD8-5020-432E-BAD4-CE7DE79F5160}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{625147D7-A753-44B2-BDB8-DEDC13010084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07AEFD8-5020-432E-BAD4-CE7DE79F5160}.Debug|x86.ActiveCfg = Debug|x86
+		{C07AEFD8-5020-432E-BAD4-CE7DE79F5160}.Debug|x86.Build.0 = Debug|x86
+		{C07AEFD8-5020-432E-BAD4-CE7DE79F5160}.Release|x86.ActiveCfg = Release|x86
+		{C07AEFD8-5020-432E-BAD4-CE7DE79F5160}.Release|x86.Build.0 = Release|x86
+		{625147D7-A753-44B2-BDB8-DEDC13010084}.Debug|x86.ActiveCfg = Debug
+		{625147D7-A753-44B2-BDB8-DEDC13010084}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
